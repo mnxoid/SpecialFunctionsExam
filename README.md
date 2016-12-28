@@ -1,9 +1,9 @@
 # Special functions exam tickets
-- [ ] 1
-- [ ] 2
+- [x] 1
+- [x] 2
 - [ ] 3
-- [ ] 4
-- [ ] 5
+- [x] 4
+- [x] 5
 - [ ] 6
 - [ ] 7
 - [ ] 8
